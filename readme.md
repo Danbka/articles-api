@@ -28,5 +28,5 @@ composer install
 
 Set up .env variables
 
-###Run tests
+### Run tests
 php bin/phpunit
