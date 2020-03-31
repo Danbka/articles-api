@@ -1,4 +1,4 @@
-###Assignment:
+### Assignment:
 
 Headless (no UI) CMS for managing articles (CRUD).
 
@@ -13,12 +13,12 @@ The whole client-server communication must be in a JSON format.
 **Optional:**
 Make the architecture ready to communicate in different formats like XML (no need for the implementation of the additional format, just make it extensible).
 
-###Installation
+### Installation
 
 Clone repository
 
 ```
-git clone 
+git clone https://github.com/Danbka/articles-api.git
 ```
 
 Install dependencies
@@ -28,10 +28,5 @@ composer install
 
 Set up .env variables
 
-### Swagger documentation
-```
-/doc
-```
-
-###Run tests
+### Run tests
 php bin/phpunit
