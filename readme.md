@@ -28,5 +28,10 @@ composer install
 
 Set up .env variables
 
+### Swagger documentation
+```
+/doc
+```
+
 ###Run tests
 php bin/phpunit
